@@ -1,0 +1,10 @@
+{
+	"title": "Calculator",
+	"about": "About",
+	"hapticFeedback": "Haptic Feedback",
+	"theme": "Theme",
+	"advanced": "Advanced",
+	"history": "History",
+	"historyEmpty": "Nothing to show :(",
+	"settings": "Settings"
+}
